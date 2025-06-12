@@ -36,7 +36,7 @@ Each section includes hands-on examples with clear outputs and visualisations.
 
 ## 📂 File Contents
 
-- [📓 **Pandas Practice Notebook**](https://colab.research.google.com/drive/1_lA1Em2rT5TPjkM0cFpfIPov6vIKbBnw?usp=sharing): Main notebook with all examples and visualisations.
+- [📓 **Pandas Practice Notebook**](EDA_GroupBy_Numpy_Outliers.ipynb): Main notebook with all examples and visualisations.
 
 ---
 
