@@ -45,7 +45,7 @@ Each section includes hands-on examples with clear outputs and visualisations.
 1. Clone the repo or download the notebook  
 2. Open it in **Google Colab** or **Jupyter Notebook**  
 3. Run each cell sequentially  
-4. Upload any required CSV files if not embedded in the Colab version  
+4. Upload any required CSV files if not embedded in the Colab version   [📓 **Pandas Practice Notebook**](GDP (nominal) per Capita.csv)
 
 ---
 
